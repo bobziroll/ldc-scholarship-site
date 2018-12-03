@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+.vision {
+    background-color: antiquewhite;
+    min-height: 400px;
+    margin-bottom: 0;
+}
+
+.vision > h2 {
+    margin: 0;
+}
+
+.stats {
+    background-color: cadetblue;
+    min-height: 100px;
+}
+
+main.ctas > div.cta {
+    min-height: 300px;
+}
+
+footer {
+    background-color: #373737;
+    color: whitesmoke;
+}
+
+footer > p {
+    margin-bottom: 0;
+}
+
+footer .logo {
+    max-width: 50px;
+}
+
+.copyright {
+    margin-bottom: 0;
+}
