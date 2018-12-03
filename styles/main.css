@@ -2,13 +2,22 @@
     box-sizing: border-box;
 }
 
+/*
+Materialize screen sizes: 
+
+S: <= 600px
+M: > 600px
+L: > 992px
+XL: > 1200px
+*/
+
 .vision {
     background-color: antiquewhite;
     min-height: 400px;
     margin-bottom: 0;
 }
 
-.vision > h2 {
+.vision>h2 {
     margin: 0;
 }
 
@@ -17,7 +26,7 @@
     min-height: 100px;
 }
 
-main.ctas > div.cta {
+main.ctas>div.cta {
     min-height: 300px;
 }
 
@@ -26,7 +35,7 @@ footer {
     color: whitesmoke;
 }
 
-footer > p {
+footer>p {
     margin-bottom: 0;
 }
 
